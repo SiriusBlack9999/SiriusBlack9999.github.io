@@ -10,6 +10,9 @@
 
 ![alt text](image.png)
 
+
+$E=mC^2$
+
 ## 我的世界的技巧
 
 测试
