@@ -11,7 +11,7 @@
 <!-- ![alt text](image.png) -->
 
 
-$E=mC^2$
+$E=mc^2$
 
 
 ```cpp
