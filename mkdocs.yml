@@ -7,7 +7,10 @@ theme:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
-
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
