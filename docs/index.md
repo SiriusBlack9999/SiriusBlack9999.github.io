@@ -8,10 +8,22 @@
 * 骨灰级哈迷，我的世界红石大佬
 * 一个初中的程序猿
 
-![alt text](image.png)
+<!-- ![alt text](image.png) -->
 
 
 $E=mC^2$
+
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+    cout << "hello world!";
+}
+```
+
+
 
 ## 我的世界的技巧
 
